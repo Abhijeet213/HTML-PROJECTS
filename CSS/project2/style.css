@@ -1,0 +1,181 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.home {
+  background-color: rgb(229, 248, 118);
+  height: 400px;
+}
+
+.snap {
+  width: 68px;
+  height: 75px;
+
+  margin-right: -63px;
+}
+.form {
+  display: flex;
+}
+
+.bar {
+  display: flex;
+  background-color: rgb(215, 228, 143);
+}
+
+.navi {
+  list-style: none;
+  display: flex;
+  margin-left: -50px;
+
+  margin: auto;
+}
+
+a {
+  text-decoration: none;
+  margin: 12px;
+  font-family: "Lily Script One", cursive;
+  font-size: 17px;
+}
+
+li {
+  padding: 5px;
+}
+
+.banner {
+  float: right;
+}
+
+.para1 {
+  width: 597px;
+  font-size: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 87px;
+  font-family: "Delicious Handrawn", cursive;
+  margin-bottom: 63px;
+}
+
+.head1 {
+  font-size: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Delicious Handrawn", cursive;
+}
+
+.link {
+  border: 6px solid #45ab63;
+  padding: 5px;
+  margin-left: 121px;
+  font-size: 20px;
+}
+
+.link1 {
+  display: block;
+  width: 174px;
+  margin: auto;
+  border: 6px solid #45ab63;
+  padding: 5px;
+  padding-left: 20px;
+  margin-top: 22px;
+  margin-left: 273px;
+  font-size: 20px;
+}
+
+.img {
+  width: 341px;
+  height: 257px;
+  margin-top: -41px;
+}
+.io {
+  width: 29px;
+}
+#subject {
+  padding-top: -11px;
+  width: 201px;
+  height: 88px;
+  margin-left: 560px;
+}
+.user {
+  padding-right: 40px;
+  padding-bottom: 18px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  margin-right: 318px;
+  margin-left: 238px;
+}
+
+.pass {
+  padding-right: 40px;
+  padding-bottom: 18px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+.head0 {
+  font-size: 50px;
+  display: block;
+  margin-left: 41%;
+  margin-top: 29px;
+  font-family: "Delicious Handrawn", cursive;
+}
+input[type="text"],
+button {
+  font-size: 20px;
+  text-align: center;
+}
+button {
+  font-size: 20px;
+  text-align: center;
+  margin-top: 25px;
+  background-color: aquamarine;
+  padding-left: 88px;
+  padding-right: 96px;
+  margin-left: 563px;
+  font-family: "Delicious Handrawn", cursive;
+}
+.pa {
+  font-family: "Delicious Handrawn", cursive;
+  width: 203px;
+  height: 154px;
+  margin-top: -46px;
+  font-size: 19px;
+  margin-left: 83px;
+}
+
+.app {
+  display: flex;
+}
+
+.sec {
+  border: 2px solid red;
+  width: auto;
+  margin-top: 12px;
+  margin: 20px;
+  margin-right: 120px;
+}
+
+#img2 {
+  height: 246px;
+  width: 215px;
+  margin: auto;
+}
+
+#img3 {
+  height: 202px;
+  margin-top: 12px;
+  margin-bottom: 35px;
+}
+.km {
+  padding: 4px;
+}
+
+.km:hover {
+  background-color: white;
+  border-radius: 6px;
+}
+.km:active {
+  background-color: aqua;
+  color: black;
+}

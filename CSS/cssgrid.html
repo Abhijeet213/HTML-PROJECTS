@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            width: 1200px;
+        }
+
+        .ultra {
+            display: grid;
+            grid-template-rows: 100px 100px 100px;
+            grid-template-columns: 100px 100px 100px;
+            justify-content: center;
+
+
+        }
+
+        .box1 {
+            grid-column: 1/4;
+        }
+
+        .box2 {
+            grid-row: 2/4;
+        }
+
+        .box3 {
+            grid-row: 2/4;
+            grid-column: 2/-1;
+        }
+
+        .box4 {
+            grid-column: 1/4;
+        }
+
+        .box {
+
+            justify-content: center;
+            background-color: red;
+            margin: 12px;
+            border-radius: 3px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="ultra">
+        <div class="box1 box">This is navbar</div>
+        <div class="box2 box">slidebar</div>
+        <div class="box3 box">main</div>
+        <div class="box4 box">footer</div>
+    </div>
+</body>
+
+</html>

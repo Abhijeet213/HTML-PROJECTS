@@ -1,0 +1,39 @@
+.home,
+.head1 {
+  height: auto;
+  width: auto;
+}
+.app {
+  flex-wrap: wrap;
+}
+.cc {
+  flex-wrap: wrap;
+}
+.banner {
+  display: none;
+}
+.form {
+  flex-wrap: wrap;
+  height: auto;
+  width: auto;
+  margin: 0%;
+  padding: 0%;
+}
+.bar {
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.link,
+.link1 {
+  margin: 0;
+}
+@media (max-width: 733px) {
+  .head1 {
+    display: block;
+  }
+}
+.para1 {
+  height: auto;
+  width: auto;
+}
