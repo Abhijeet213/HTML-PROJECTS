@@ -1,0 +1,27 @@
+body{
+	width: 167vh;
+	margin: 0;
+padding: 0;
+}
+.flo{
+	    margin-right: 478px;
+      
+}
+@media screen all  (min-width: 1515px) {
+ .asdasa{
+ 	float: none!important!important;
+ 	display: none!important;
+ }
+}
+.ba{
+
+    width: 46px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+
+}
+.nav-link:hover {
+	 text-shadow: 2px -15px 3px black;
+	 text-transform: uppercase;
+
+}

@@ -1,0 +1,95 @@
+
+body{
+	    width: 233vh;
+    margin: 0!important;
+    padding: 0;
+    margin-right: -274px!important!important;
+    overflow-x: hidden;
+}
+
+
+.flo{
+	    margin-right: 478px;
+      
+}
+
+.ba{
+
+    width: 46px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+
+}
+.nav-link:hover {
+	 text-shadow: 2px -15px 3px black;
+	 text-transform: uppercase;
+
+}
+.roun{
+	     box-shadow: 2px 3px 15px red;
+	
+  border-radius: 50%;
+
+}
+.nav-link:hover {
+	 text-shadow: 2px -15px 3px black;
+	 text-transform: uppercase;
+
+}
+.my{
+	margin-left: 67px;
+    margin-top: 170px;
+    width: 32vw;
+    display: inline-block;
+}
+.hm:hover{
+	background-color: orange;
+	     box-shadow: 2px 3px 15px red;
+}
+.hm1:hover{
+	background-color: grey	;
+	     box-shadow: 2px 3px 15px red;
+}
+.sasti{
+ border-bottom: 2px dotted red ;
+	    margin-top: 71px;
+    display: inline-block;
+    margin-left: 33%;
+    margin-bottom: 28px;
+}
+.hm{
+	     float: left;
+	    margin-left: 324px;
+    margin-top: -7px;}
+ box-shadow: 0px 3px 6px purple;	}
+ .hm1{
+ box-shadow: 0px 3px 6px purple;	}
+ }
+abbr{margin-right: 12px;}
+.wd{
+float: right;
+}
+ .lia{
+
+
+float: right;
+max-width: 100%;
+max-height: auto;
+ }
+ #vid{          margin-right: -27px!important;
+    float: right;
+    margin-top: -239px;
+}       
+}
+.ba{
+
+    width: 46px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+
+}
+.card{
+	display: inline-block!important;
+    width: 350px;
+        margin-left: 7vw;
+}

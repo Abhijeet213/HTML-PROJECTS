@@ -1,0 +1,37 @@
+.flo{
+	    margin-right: 478px;
+      
+}
+
+.ba{
+
+    width: 46px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+
+}
+.nav-link:hover {
+	 text-shadow: 2px -15px 3px black;
+	 text-transform: uppercase;
+}
+body{
+	width: 167vh;
+	margin: 0;
+padding: 0;
+}
+div{
+	    border-radius: 38px!important;
+
+   
+
+}
+a:hover{
+	text-decoration:underline!important; 
+}
+a{
+	text-decoration:none!important;
+	color:#ff0021;
+}
+.ads{
+    background-color: #d8ecff!important;
+}
